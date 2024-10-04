@@ -1,0 +1,31 @@
+onset	duration	sample	value	event_code	user_answer	correct_answer
+0	n/a	0	break cnt	break cnt	n/a	n/a
+35.62	n/a	17810	symbolSearch_start	92	n/a	n/a
+38.538	n/a	19269	newPage	20	n/a	n/a
+47.954	n/a	23977	trialResponse	14	0	0
+55.638	n/a	27819	trialResponse	14	0	1
+62.402	n/a	31201	trialResponse	14	0	0
+73.73	n/a	36865	trialResponse	14	0	0
+84.594	n/a	42297	trialResponse	14	0	0
+94.908	n/a	47454	trialResponse	14	1	1
+103.156	n/a	51578	trialResponse	14	0	0
+115.754	n/a	57877	trialResponse	14	0	1
+125.794	n/a	62897	trialResponse	14	0	0
+134.548	n/a	67274	trialResponse	14	0	0
+141.41	n/a	70705	trialResponse	14	0	0
+149.572	n/a	74786	trialResponse	14	1	1
+156.146	n/a	78073	trialResponse	14	0	0
+166.05	n/a	83025	trialResponse	14	n/a	1
+166.062	n/a	83031	newPage	20	n/a	n/a
+169.892	n/a	84946	break cnt	break cnt	n/a	n/a
+312.484	n/a	156242	9999	9999	n/a	n/a
+314.386	n/a	157193	video_start	83	n/a	n/a
+456.422	n/a	228211	9999	9999	n/a	n/a
+457.454	n/a	228727	video_start	83	n/a	n/a
+628.006	n/a	314003	video_stop	103	n/a	n/a
+628.548	n/a	314274	break cnt	break cnt	n/a	n/a
+656.954	n/a	328477	9999	9999	n/a	n/a
+657.992	n/a	328996	video_start	82	n/a	n/a
+820.984	n/a	410492	video_stop	102	n/a	n/a
+821.628	n/a	410814	break cnt	break cnt	n/a	n/a
+910.816	n/a	455408	9999	9999	n/a	n/a
