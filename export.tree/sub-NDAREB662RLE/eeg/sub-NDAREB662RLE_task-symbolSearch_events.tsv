@@ -1,0 +1,50 @@
+onset	duration	sample	value	event_code	user_answer	correct_answer
+0	n/a	0	break cnt	break cnt	n/a	n/a
+44.462	n/a	22231	symbolSearch_start	92	n/a	n/a
+47.382	n/a	23691	newPage	20	n/a	n/a
+52.438	n/a	26219	trialResponse	14	0	0
+55.132	n/a	27566	trialResponse	14	1	1
+58.848	n/a	29424	trialResponse	14	0	0
+63.696	n/a	31848	trialResponse	14	0	0
+71.362	n/a	35681	trialResponse	14	0	0
+74.144	n/a	37072	trialResponse	14	1	1
+78.818	n/a	39409	trialResponse	14	0	0
+83.248	n/a	41624	trialResponse	14	0	1
+86.656	n/a	43328	trialResponse	14	0	0
+89.41	n/a	44705	trialResponse	14	0	0
+94.978	n/a	47489	trialResponse	14	0	0
+97.938	n/a	48969	trialResponse	14	1	1
+100.114	n/a	50057	trialResponse	14	0	0
+102.184	n/a	51092	trialResponse	14	1	1
+104.298	n/a	52149	trialResponse	14	1	1
+105.146	n/a	52573	newPage	20	n/a	n/a
+111.576	n/a	55788	trialResponse	14	1	1
+115.426	n/a	57713	trialResponse	14	1	1
+120.146	n/a	60073	trialResponse	14	0	0
+121.864	n/a	60932	trialResponse	14	1	1
+128.762	n/a	64381	trialResponse	14	0	0
+131.32	n/a	65660	trialResponse	14	1	1
+135.09	n/a	67545	trialResponse	14	0	0
+139.13	n/a	69565	trialResponse	14	1	1
+142.96	n/a	71480	trialResponse	14	1	1
+147.88	n/a	73940	trialResponse	14	0	0
+150.328	n/a	75164	trialResponse	14	1	1
+154.818	n/a	77409	trialResponse	14	0	0
+158.392	n/a	79196	trialResponse	14	1	1
+160.986	n/a	80493	trialResponse	14	1	1
+165.512	n/a	82756	trialResponse	14	0	0
+166.09	n/a	83045	newPage	20	n/a	n/a
+170.01	n/a	85005	trialResponse	14	0	0
+170.022	n/a	85011	newPage	20	n/a	n/a
+173.578	n/a	86789	break cnt	break cnt	n/a	n/a
+224.176	n/a	112088	9999	9999	n/a	n/a
+226.062	n/a	113031	video_start	83	n/a	n/a
+345.696	n/a	172848	9999	9999	n/a	n/a
+346.742	n/a	173371	video_start	83	n/a	n/a
+517.284	n/a	258642	video_stop	103	n/a	n/a
+517.796	n/a	258898	break cnt	break cnt	n/a	n/a
+636.826	n/a	318413	9999	9999	n/a	n/a
+637.854	n/a	318927	video_start	82	n/a	n/a
+800.846	n/a	400423	video_stop	102	n/a	n/a
+801.378	n/a	400689	break cnt	break cnt	n/a	n/a
+848.95	n/a	424475	9999	9999	n/a	n/a
